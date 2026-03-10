@@ -29,7 +29,7 @@ export const PromotionalVideosSection = (): JSX.Element => {
 
   const centerFrameImages = [
     {
-      src: "/figmaAssets/rectangle-3.png",
+      src: "/figmaAssets/rectangle-1.png",
       alt: "Rectangle",
       className: "absolute -top-6 -left-6 w-[348px] h-[493px]",
     },

@@ -4,12 +4,12 @@ const featuredModels = [
   {
     id: "women",
     label: "Women",
-    backgroundImage: "url(../figmaAssets/frame-30.png)",
+    backgroundImage: "url(/figmaAssets/frame-30.png)",
   },
   {
     id: "men",
     label: "Men",
-    backgroundImage: "url(../figmaAssets/frame-24.png)",
+    backgroundImage: "url(/figmaAssets/frame-24.png)",
   },
 ];
 

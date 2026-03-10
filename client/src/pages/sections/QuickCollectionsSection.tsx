@@ -3,11 +3,11 @@ import { Card, CardContent } from "@/components/ui/card";
 const collections = [
   {
     title: "Office",
-    backgroundImage: "..//figmaAssets/frame-30.png",
+    backgroundImage: "/figmaAssets/frame-30.png",
   },
   {
     title: "Formal",
-    backgroundImage: "..//figmaAssets/frame-31.png",
+    backgroundImage: "/figmaAssets/frame-31.png",
   },
 ];
 
