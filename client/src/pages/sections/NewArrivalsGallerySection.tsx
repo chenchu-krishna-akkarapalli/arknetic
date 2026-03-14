@@ -2,12 +2,12 @@ export const NewArrivalsGallerySection = (): JSX.Element => {
   const galleryItems = [
     {
       id: 1,
-      backgroundImage: "url(/figmaAssets/frame-30.png)",
+      backgroundImage: "url(/figmaAssets/frame-30.avif)",
       label: "Western",
     },
     {
       id: 2,
-      backgroundImage: "url(/figmaAssets/frame-31.png)",
+      backgroundImage: "url(/figmaAssets/frame-31.avif)",
       label: "Designed",
     },
   ];

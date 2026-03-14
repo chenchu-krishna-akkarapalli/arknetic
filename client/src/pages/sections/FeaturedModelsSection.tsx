@@ -4,12 +4,12 @@ const featuredModels = [
   {
     id: "women",
     label: "Women",
-    backgroundImage: "url(/Assets/featured-model-left.png)",
+    backgroundImage: "url(/Assets/featured-model-left.avif)",
   },
   {
     id: "men",
     label: "Men",
-    backgroundImage: "url(/Assets/featured-model-right.png)",
+    backgroundImage: "url(/Assets/featured-model-right.avif)",
   },
 ];
 

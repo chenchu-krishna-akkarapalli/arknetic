@@ -11,7 +11,7 @@ const productColors = [
 
 const topRowProducts = [
   {
-    image: "/figmaAssets/frame-21-3.png",
+    image: "/figmaAssets/frame-21-3.avif",
     discount: "40%",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
@@ -19,7 +19,7 @@ const topRowProducts = [
     colors: productColors,
   },
   {
-    image: "/figmaAssets/frame-22-3.png",
+    image: "/figmaAssets/frame-22-3.avif",
     discount: "40%",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
@@ -27,7 +27,7 @@ const topRowProducts = [
     colors: productColors,
   },
   {
-    image: "/figmaAssets/frame-24-5.png",
+    image: "/figmaAssets/frame-24-5.avif",
     discount: null,
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
@@ -35,7 +35,7 @@ const topRowProducts = [
     colors: productColors,
   },
   {
-    image: "/figmaAssets/frame-24-3.png",
+    image: "/figmaAssets/frame-24-3.avif",
     discount: "40%",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
@@ -43,7 +43,7 @@ const topRowProducts = [
     colors: productColors,
   },
   {
-    image: "/figmaAssets/frame-21-3.png",
+    image: "/figmaAssets/frame-21-3.avif",
     discount: "40%",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
@@ -51,7 +51,7 @@ const topRowProducts = [
     colors: productColors,
   },
   {
-    image: "/figmaAssets/frame-22-3.png",
+    image: "/figmaAssets/frame-22-3.avif",
     discount: "40%",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
@@ -74,7 +74,7 @@ export const NewArrivalsInfoSection = (): JSX.Element => {
           <img
             className="w-[684px] h-[642px] object-cover"
             alt="Nanno Banana Banner"
-            src="/Assets/nanno-banana-banner.png"
+            src="/Assets/nanno-banana-banner.avif"
           />
 
           <div className="flex flex-col w-[684px] gap-2">

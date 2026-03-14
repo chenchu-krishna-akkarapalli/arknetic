@@ -15,7 +15,7 @@ const dropdownContent: Record<string, DropdownData> = {
       { heading: "By Size", items: ["XS / S", "M / L", "XL / XXL", "Petite", "Tall", "Plus Size"] },
     ],
     bannerLabel: "New In",
-    bannerImage: "/figmaAssets/frame-22-3.png",
+    bannerImage: "/figmaAssets/frame-22-3.avif",
   },
   "Formal Wear": {
     columns: [
@@ -25,7 +25,7 @@ const dropdownContent: Record<string, DropdownData> = {
       { heading: "By Color", items: ["Black", "Navy", "Grey", "White", "Cream", "Charcoal"] },
     ],
     bannerLabel: "Formal",
-    bannerImage: "/figmaAssets/frame-21-3.png",
+    bannerImage: "/figmaAssets/frame-21-3.avif",
   },
   "Party Wear": {
     columns: [
@@ -35,7 +35,7 @@ const dropdownContent: Record<string, DropdownData> = {
       { heading: "By Occasion", items: ["Wedding Guest", "Cocktail", "Gala", "Birthday", "Graduation", "Night Out"] },
     ],
     bannerLabel: "Party Wear",
-    bannerImage: "/figmaAssets/frame-20-3.png",
+    bannerImage: "/figmaAssets/frame-20-3.avif",
   },
   "Sale - 50%": {
     columns: [
@@ -45,7 +45,7 @@ const dropdownContent: Record<string, DropdownData> = {
       { heading: "Featured", items: ["Best Sellers", "Editor's Picks", "New Markdowns", "Limited Offer", "Bundle Deals", "Gift Sets"] },
     ],
     bannerLabel: "Sale",
-    bannerImage: "/figmaAssets/frame-19-3.png",
+    bannerImage: "/figmaAssets/frame-19-3.avif",
   },
   "Women": {
     columns: [
@@ -55,7 +55,7 @@ const dropdownContent: Record<string, DropdownData> = {
       { heading: "Accessories", items: ["Jewelry", "Scarves", "Belts", "Sunglasses", "Hats", "Watches"] },
     ],
     bannerLabel: "Women",
-    bannerImage: "/figmaAssets/frame-22-4.png",
+    bannerImage: "/figmaAssets/frame-22-4.avif",
   },
   "Men": {
     columns: [
@@ -65,7 +65,7 @@ const dropdownContent: Record<string, DropdownData> = {
       { heading: "Accessories", items: ["Ties", "Belts", "Watches", "Sunglasses", "Hats", "Socks"] },
     ],
     bannerLabel: "Men",
-    bannerImage: "/figmaAssets/frame-21-4.png",
+    bannerImage: "/figmaAssets/frame-21-4.avif",
   },
 };
 
@@ -137,12 +137,12 @@ export const HeaderSection = (): JSX.Element => {
               <img
                 className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-300 ${(isCollectionsBrand || isSmartSwitchOn) ? "opacity-0" : "opacity-100"}`}
                 alt="Logo"
-                src="/figmaAssets/logo.png"
+                src="/figmaAssets/logo.avif"
               />
               <img
                 className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-300 ${(isCollectionsBrand || isSmartSwitchOn) ? "opacity-100" : "opacity-0"}`}
                 alt="Arknetic Fashion"
-                src="/Assets/ArkneticFashion.png"
+                src="/Assets/ArkneticFashion.avif"
               />
             </div>
           </button>
@@ -173,7 +173,7 @@ export const HeaderSection = (): JSX.Element => {
           <img
             className="w-16 h-20 object-cover"
             alt="Logo"
-            src="/figmaAssets/logo.png"
+            src="/figmaAssets/logo.avif"
           />
 
           <div className="flex items-center gap-[31px]">

@@ -122,7 +122,7 @@ export const PromotionalVideosSection = (): JSX.Element => {
             <img
               className="w-[500px] h-[750px] object-cover rounded-none"
               alt="Testimonial Designer Wear"
-              src="/Assets/testimonial-product.png"
+              src="/Assets/testimonial-product.avif"
             />
           </div>
         </div>

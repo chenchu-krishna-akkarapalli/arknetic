@@ -5,10 +5,10 @@ import { FooterSection } from "./sections/FooterSection";
 import { NewArrivalsGallerySection } from "./sections/NewArrivalsGallerySection";
 
 const productImages = [
-  { src: "/Assets/product_detail_main.png", alt: "Mul Cotton Saree front view" },
-  { src: "/Assets/product_detail_side1.png", alt: "Mul Cotton Saree side view" },
-  { src: "/Assets/product_detail_side2.png", alt: "Mul Cotton Saree back view" },
-  { src: "/Assets/product_detail_main.png", alt: "Mul Cotton Saree detail view" },
+  { src: "/Assets/product_detail_main.avif", alt: "Mul Cotton Saree front view" },
+  { src: "/Assets/product_detail_side1.avif", alt: "Mul Cotton Saree side view" },
+  { src: "/Assets/product_detail_side2.avif", alt: "Mul Cotton Saree back view" },
+  { src: "/Assets/product_detail_main.avif", alt: "Mul Cotton Saree detail view" },
 ];
 
 const sizeSelections = [
@@ -24,7 +24,7 @@ const sizeSelections = [
 
 const relatedProducts = [
   {
-    image: "/figmaAssets/frame-19-3.png",
+    image: "/figmaAssets/frame-19-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -32,7 +32,7 @@ const relatedProducts = [
     colors: ["#d2d2d2", "#808080", "#393939"],
   },
   {
-    image: "/figmaAssets/frame-20-3.png",
+    image: "/figmaAssets/frame-20-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -40,7 +40,7 @@ const relatedProducts = [
     colors: ["#d2d2d2", "#808080", "#393939"],
   },
   {
-    image: "/figmaAssets/frame-21-3.png",
+    image: "/figmaAssets/frame-21-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -48,7 +48,7 @@ const relatedProducts = [
     colors: ["#d2d2d2", "#808080", "#393939"],
   },
   {
-    image: "/figmaAssets/frame-22-3.png",
+    image: "/figmaAssets/frame-22-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -56,7 +56,7 @@ const relatedProducts = [
     colors: ["#d2d2d2", "#808080", "#393939"],
   },
   {
-    image: "/figmaAssets/frame-19-3.png",
+    image: "/figmaAssets/frame-19-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -64,7 +64,7 @@ const relatedProducts = [
     colors: ["#d2d2d2", "#808080", "#393939"],
   },
   {
-    image: "/figmaAssets/frame-20-3.png",
+    image: "/figmaAssets/frame-20-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -72,7 +72,7 @@ const relatedProducts = [
     colors: ["#d2d2d2", "#808080", "#393939"],
   },
   {
-    image: "/figmaAssets/frame-21-3.png",
+    image: "/figmaAssets/frame-21-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -80,7 +80,7 @@ const relatedProducts = [
     colors: ["#d2d2d2", "#808080", "#393939"],
   },
   {
-    image: "/figmaAssets/frame-22-3.png",
+    image: "/figmaAssets/frame-22-3.avif",
     title: "Office Formal | Men Formal Weare",
     price: "Rs. 11,300",
     originalPrice: "Rs. 11,300",

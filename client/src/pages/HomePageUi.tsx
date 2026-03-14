@@ -12,22 +12,22 @@ import { FooterSection } from "./sections/FooterSection";
 
 const categoryCards = [
   {
-    image: "/figmaAssets/frame-19-3.png",
+    image: "/figmaAssets/frame-19-3.avif",
     alt: "Frame",
     className: "w-[330px] h-[482px]",
   },
   {
-    image: "/figmaAssets/frame-20-3.png",
+    image: "/figmaAssets/frame-20-3.avif",
     alt: "Frame",
     className: "w-[330px] h-[482px]",
   },
   {
-    image: "/figmaAssets/frame-21-4.png",
+    image: "/figmaAssets/frame-21-4.avif",
     alt: "Frame",
     className: "w-[330px] h-[482px]",
   },
   {
-    image: "/figmaAssets/frame-22-4.png",
+    image: "/figmaAssets/frame-22-4.avif",
     alt: "Frame",
     className: "w-[330px] h-[482px]",
   },
@@ -55,7 +55,7 @@ export const HomePageUi = (): JSX.Element => {
         <img
           className="mt-[439px] w-[683px] h-[300px] ml-[37px] relative z-10"
           alt="Frame"
-          src="/figmaAssets/frame-18-1.png"
+          src="/figmaAssets/frame-18-1.avif"
         />
       </section>
 

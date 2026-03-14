@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 const products = [
   {
     id: 1,
-    image: "/figmaAssets/frame-24.png",
+    image: "/figmaAssets/frame-24.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -14,7 +14,7 @@ const products = [
   },
   {
     id: 2,
-    image: "/figmaAssets/frame-24-1.png",
+    image: "/figmaAssets/frame-24-1.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -23,7 +23,7 @@ const products = [
   },
   {
     id: 3,
-    image: "/figmaAssets/frame-24-2.png",
+    image: "/figmaAssets/frame-24-2.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -32,7 +32,7 @@ const products = [
   },
   {
     id: 4,
-    image: "/figmaAssets/frame-24-3.png",
+    image: "/figmaAssets/frame-24-3.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -41,7 +41,7 @@ const products = [
   },
   {
     id: 5,
-    image: "/figmaAssets/frame-24-4.png",
+    image: "/figmaAssets/frame-24-4.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -50,7 +50,7 @@ const products = [
   },
   {
     id: 6,
-    image: "/figmaAssets/frame-24-5.png",
+    image: "/figmaAssets/frame-24-5.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",

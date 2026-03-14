@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 const products = [
   {
     id: 1,
-    image: "/figmaAssets/frame-24-5.png",
+    image: "/figmaAssets/frame-24-5.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -14,7 +14,7 @@ const products = [
   },
   {
     id: 2,
-    image: "/figmaAssets/frame-24-3.png",
+    image: "/figmaAssets/frame-24-3.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -24,7 +24,7 @@ const products = [
   },
   {
     id: 3,
-    image: "/figmaAssets/frame-21-3.png",
+    image: "/figmaAssets/frame-21-3.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -34,7 +34,7 @@ const products = [
   },
   {
     id: 4,
-    image: "/figmaAssets/frame-22-3.png",
+    image: "/figmaAssets/frame-22-3.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -44,7 +44,7 @@ const products = [
   },
   {
     id: 5,
-    image: "/figmaAssets/frame-24-5.png",
+    image: "/figmaAssets/frame-24-5.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -53,7 +53,7 @@ const products = [
   },
   {
     id: 6,
-    image: "/figmaAssets/frame-24-3.png",
+    image: "/figmaAssets/frame-24-3.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -63,7 +63,7 @@ const products = [
   },
   {
     id: 7,
-    image: "/figmaAssets/frame-21-3.png",
+    image: "/figmaAssets/frame-21-3.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     id: 8,
-    image: "/figmaAssets/frame-22-3.png",
+    image: "/figmaAssets/frame-22-3.avif",
     title: "Office Formal | Men Formal Weare",
     currentPrice: "Rs. 11,300",
     originalPrice: "Rs. 11,300",
