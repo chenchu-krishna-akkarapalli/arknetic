@@ -4,19 +4,19 @@ const featuredModels = [
   {
     id: "women",
     label: "Women",
-    backgroundImage: "url(/figmaAssets/frame-30.png)",
+    backgroundImage: "url(/Assets/featured-model-left.png)",
   },
   {
     id: "men",
     label: "Men",
-    backgroundImage: "url(/figmaAssets/frame-24.png)",
+    backgroundImage: "url(/Assets/featured-model-right.png)",
   },
 ];
 
 export const FeaturedModelsSection = (): JSX.Element => {
   return (
-    <section className="flex flex-col items-start gap-2 w-full max-w-[1380px] mx-auto mt-[30px] px-4">
-      <header className="flex flex-col items-start gap-2 w-full max-w-[447px]">
+    <section className="w-full max-w-[1381px] mx-auto py-8 px-4 flex flex-col items-start gap-4">
+      <header className="flex flex-col items-start gap-2 w-full">
         <h2 className="[font-family:'Poppins',Helvetica] font-extrabold text-black text-base tracking-[0] leading-normal">
           New . Buzz
         </h2>
@@ -25,11 +25,11 @@ export const FeaturedModelsSection = (): JSX.Element => {
         </p>
       </header>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-1 w-full mt-2">
+      <div className="flex justify-between w-full mt-2">
         {featuredModels.map((model) => (
           <Card
             key={model.id}
-            className="relative h-[839px] overflow-hidden border-0 rounded-none bg-cover bg-center bg-no-repeat"
+            className="relative w-[690px] h-[840px] overflow-hidden border-0 rounded-none bg-cover bg-center bg-no-repeat"
             style={{ backgroundImage: model.backgroundImage }}
           >
             <CardContent className="flex items-end justify-center h-full p-0">

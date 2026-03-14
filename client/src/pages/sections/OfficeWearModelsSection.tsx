@@ -85,10 +85,10 @@ const products = [
 
 export const OfficeWearModelsSection = (): JSX.Element => {
   return (
-    <section className="w-full py-8 px-4">
-      <div className="max-w-[1440px] mx-auto">
-        <header className="flex items-start justify-between mb-8">
-          <div className="flex flex-col gap-2">
+    <section className="w-full max-w-[1381px] mx-auto py-8 px-4">
+      <div className="w-full max-w-[1381px] mx-auto">
+        <header className="flex items-start justify-between mb-[9px]">
+          <div className="flex flex-col gap-[ 9px ]">
             <h2 className="[font-family:'Poppins',Helvetica] font-extrabold text-black text-base">
               Designer Wear
             </h2>

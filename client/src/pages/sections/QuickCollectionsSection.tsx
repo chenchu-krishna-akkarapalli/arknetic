@@ -13,7 +13,7 @@ const collections = [
 
 export const QuickCollectionsSection = (): JSX.Element => {
   return (
-    <section className="flex w-full max-w-[1440px] mx-auto mt-[88px] gap-0">
+    <section className="flex w-full mx-auto mt-[88px] gap-0">
       {collections.map((collection, index) => (
         <Card
           key={index}
