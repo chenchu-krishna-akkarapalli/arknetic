@@ -170,11 +170,18 @@ export const HeaderSection = (): JSX.Element => {
             ))}
           </div>
 
-          <img
-            className="w-16 h-20 object-cover"
-            alt="Logo"
-            src="/figmaAssets/logo.avif"
-          />
+          <button
+            type="button"
+            aria-label="Go to home"
+            onClick={() => setLocation("/")}
+            className="p-0 bg-transparent border-none cursor-pointer"
+          >
+            <img
+              className="w-16 h-20 object-cover"
+              alt="Logo"
+              src="/figmaAssets/logo.avif"
+            />
+          </button>
 
           <div className="flex items-center gap-[31px]">
             {rightNavigationItems.map((item, index) => (
